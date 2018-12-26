@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BaseGameUtilsArioGame/BaseGameUtilsArioGames.iml" filepath="$PROJECT_DIR$/BaseGameUtilsArioGame/BaseGameUtilsArioGames.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-sdk.iml" filepath="$PROJECT_DIR$/android-sdk.iml" />
+      <module fileurl="file://C:\Users\USER\Git\sdk-sample-app\android-sdk.iml" filepath="C:\Users\USER\Git\sdk-sample-app\android-sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-sample-app.iml" filepath="$PROJECT_DIR$/sdk-sample-app.iml" />
     </modules>
   </component>
 </project>
